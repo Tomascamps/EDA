@@ -42,7 +42,7 @@ struct complejo1{
     t=(nodo*)malloc(sizeof(nodo));
     t=n3;
   //8
-  complex c2;*c;
+  complex c2,*c;
   c=(complex*)malloc(sizeof(complex));
   c=c2; 
   
